@@ -1,0 +1,88 @@
+,ISO3,Countries and areas,Region,Sub-region,Income Group,Total,Rural (Residence),Urban (Residence),Poorest (Wealth quintile),Richest (Wealth quintile)
+1,AGO,Angola,SSA,ESA,Lower middle income (LM),0,2,22,0,61
+2,ARG,Argentina,LAC,LAC,Upper middle income (UM),39,0,0,0,0
+3,ARM,Armenia,ECA,EECA,Upper middle income (UM),81,69,89,46,99
+4,BGD,Bangladesh,SA,SA,Lower middle income (LM),34,30,49,7,75
+5,BRB,Barbados,LAC,LAC,High income (H),63,54,68,9,97
+6,BEN,Benin,SSA,WCA,Low income (L),3,1,6,0,14
+7,BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),11,4,0,0,0
+8,BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),51,43,68,3,95
+9,BRA,Brazil,LAC,LAC,Upper middle income (UM),82,49,88,86,100
+10,BGR,Bulgaria,ECA,EECA,Upper middle income (UM),73,65,77,24,98
+11,BFA,Burkina Faso,SSA,WCA,Low income (L),1,1,3,1,4
+12,CMR,Cameroon,SSA,WCA,Lower middle income (LM),4,0,9,0,22
+13,CAF,Central African Republic,SSA,WCA,Low income (L),3,1,8,0,0
+14,TCD,Chad,SSA,WCA,Low income (L),2,1,8,0,9
+15,CHL,Chile,LAC,LAC,High income (H),86,69,88,71,99
+16,CHN,China,EAP,EAP,Upper middle income (UM),62,53,91,0,0
+17,COL,Colombia,LAC,LAC,Upper middle income (UM),33,4,45,1,98
+18,CRI,Costa Rica,LAC,LAC,Upper middle income (UM),70,61,74,44,99
+19,CIV,C™te d'Ivoire,SSA,WCA,Lower middle income (LM),2,0,5,0,13
+20,CUB,Cuba,LAC,LAC,Upper middle income (UM),5,2,6,16,0
+21,COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1,0,2,0,3
+22,DJI,Djibouti,SSA,ESA,Lower middle income (LM),4,1,8,1,32
+23,DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),24,9,29,0,78
+24,ECU,Ecuador,LAC,LAC,Upper middle income (UM),40,19,50,0,0
+25,EGY,Egypt,MENA,MENA,Lower middle income (LM),16,9,27,0,0
+26,GMB,Gambia,SSA,WCA,Low income (L),64,46,74,25,93
+27,GEO,Georgia,ECA,EECA,Upper middle income (UM),84,70,93,46,99
+28,GHA,Ghana,SSA,WCA,Lower middle income (LM),16,10,25,2,52
+29,GTM,Guatemala,LAC,LAC,Upper middle income (UM),8,2,16,0,43
+30,GNB,Guinea-Bissau,SSA,WCA,Low income (L),2,1,4,0,5
+31,HTI,Haiti,LAC,LAC,Low income (L),18,10,33,0,60
+32,IND,India,SA,SA,Lower middle income (LM),7,4,14,0,33
+33,IDN,Indonesia,EAP,EAP,Lower middle income (LM),17,9,24,5,44
+34,IRQ,Iraq,MENA,MENA,Upper middle income (UM),46,33,53,14,83
+35,ITA,Italy,ECA,,High income (H),63,0,0,0,0
+36,JPN,Japan,EAP,EAP,High income (H),75,81,74,62,85
+37,JOR,Jordan,MENA,MENA,Upper middle income (UM),36,33,36,23,72
+38,KEN,Kenya,SSA,ESA,Lower middle income (LM),30,0,22,0,0
+39,KIR,Kiribati,EAP,EAP,Lower middle income (LM),50,32,66,12,86
+40,KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),72,69,81,53,89
+41,LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),1,1,4,0,5
+42,LSO,Lesotho,SSA,ESA,Lower middle income (LM),30,21,50,5,68
+43,MDG,Madagascar,SSA,ESA,Low income (L),9,5,24,0,44
+44,MDV,Maldives,SA,SA,Upper middle income (UM),70,68,74,49,94
+45,MLI,Mali,SSA,WCA,Low income (L),5,3,13,0,21
+46,MRT,Mauritania,SSA,WCA,Lower middle income (LM),3,1,6,0,11
+47,MEX,Mexico,LAC,LAC,Upper middle income (UM),37,10,47,0,0
+48,MNG,Mongolia,EAP,EAP,Lower middle income (LM),37,13,50,2,94
+49,MNE,Montenegro,ECA,EECA,Upper middle income (UM),80,71,84,43,100
+50,MAR,Morocco,MENA,MENA,Lower middle income (LM),16,11,20,0,0
+51,NAM,Namibia,SSA,ESA,Upper middle income (UM),6,1,14,0,32
+52,NPL,Nepal,SA,SA,Low income (L),46,31,54,0,85
+53,NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4,0,0,0,0
+54,NER,Niger,SSA,WCA,Low income (L),2,0,0,0,0
+55,NGA,Nigeria,SSA,WCA,Lower middle income (LM),3,0,0,0,0
+56,PAK,Pakistan,SA,SA,Lower middle income (LM),8,4,18,0,45
+57,PAN,Panama,LAC,LAC,High income (H),27,8,40,2,95
+58,PER,Peru,LAC,LAC,Upper middle income (UM),25,1,33,0,0
+59,RUS,Russian Federation,ECA,EECA,Upper middle income (UM),88,82,90,88,0
+60,LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),44,44,47,12,0
+61,STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),44,37,47,18,75
+62,SEN,Senegal,SSA,WCA,Lower middle income (LM),5,2,9,1,20
+63,SRB,Serbia,ECA,EECA,Upper middle income (UM),95,94,96,71,100
+64,SLE,Sierra Leone,SSA,WCA,Low income (L),12,3,24,0,38
+65,SOM,Somalia,SSA,ESA,Low income (L),12,0,0,0,0
+66,ZAF,South Africa,SSA,ESA,Upper middle income (UM),18,0,0,0,0
+67,SSD,South Sudan,SSA,ESA,Low income (L),0,0,1,0,2
+68,LKA,Sri Lanka,SA,SA,Upper middle income (UM),67,64,85,70,99
+69,SDN,Sudan,SSA,ESA,Lower middle income (LM),3,1,8,0,17
+70,SUR,Suriname,LAC,LAC,Upper middle income (UM),49,35,56,21,94
+71,TJK,Tajikistan,ECA,EECA,Low income (L),23,19,37,5,44
+72,THA,Thailand,EAP,EAP,Upper middle income (UM),68,65,75,42,95
+73,MKD,North Macedonia,ECA,EECA,Upper middle income (UM),91,88,93,67,100
+74,TGO,Togo,SSA,WCA,Low income (L),20,6,47,0,78
+75,TON,Tonga,EAP,EAP,Upper middle income (UM),90,89,94,82,94
+76,TTO,Trinidad and Tobago,LAC,LAC,High income (H),42,32,51,2,97
+77,TUN,Tunisia,MENA,MENA,Lower middle income (LM),36,20,44,11,82
+78,TUR,Turkey,ECA,EECA,Upper middle income (UM),33,14,39,2,91
+79,TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),44,35,56,32,74
+80,UGA,Uganda,SSA,ESA,Low income (L),0,0,1,0,1
+81,UKR,Ukraine,ECA,EECA,Lower middle income (LM),73,0,73,0,0
+82,GBR,United Kingdom,ECA,,High income (H),99,0,0,0,0
+83,URY,Uruguay,LAC,LAC,High income (H),63,53,64,37,0
+84,UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),19,16,26,0,69
+85,VNM,Viet Nam,EAP,EAP,Lower middle income (LM),58,0,58,0,0
+86,ZMB,Zambia,SSA,ESA,Lower middle income (LM),6,2,12,0,28
+87,ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),25,16,48,4,60
